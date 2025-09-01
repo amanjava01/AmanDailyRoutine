@@ -1,4 +1,4 @@
-# Umakant Daily Routine - Android Task Manager
+# Aman Daily Routine - Android Task Manager
 
 A personalized Android application for managing daily tasks with real-time features, smart notifications, and scheduled alarms.
 
