@@ -53,23 +53,6 @@ implementation 'androidx.room:room-runtime:2.6.1'
 implementation 'androidx.lifecycle:lifecycle-viewmodel:2.7.0'
 implementation 'androidx.lifecycle:lifecycle-livedata:2.7.0'
 ```
-
-## 🚀 Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/umakant-daily-routine.git
-   ```
-
-2. **Open in Android Studio**
-   - Launch Android Studio
-   - File → Open → Select project folder
-   - Wait for Gradle sync
-
-3. **Run the app**
-   - Connect Android device or start emulator
-   - Click Run button or press Shift + F10
-
 ## 📱 Permissions Required
 
 - `POST_NOTIFICATIONS` - For task reminders
@@ -118,34 +101,15 @@ app/src/main/java/com/umakant/dailyroutine/
 └── NotificationHelper.java   # Notification management
 ```
 
-## 🎨 Screenshots
-
-*Add screenshots of your app here*
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Developer
 
-**Umakant**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Aman**
+- GitHub: [@yourusername](https://github.com/amanjava01)
+- Email: amanranahyd5546.email@example.com
 
 ## 🙏 Acknowledgments
 
 - Material Design Components for UI elements
 - Android Architecture Components for MVVM implementation
 - Room Database for local data persistence
-
----
-
-⭐ **Star this repository if you found it helpful!**
