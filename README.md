@@ -5,7 +5,7 @@ A personalized Android application for managing daily tasks with real-time featu
 ## 📱 Features
 
 ### ✨ Core Functionality
-- **Personalized Dashboard** - "Umakant Daily Routine" with real-time clock and date
+- **Personalized Dashboard** - "Aman Daily Routine" with real-time clock and date
 - **Task Management** - Add, edit, delete tasks with priority levels (High/Medium/Low)
 - **Smart Completion** - Tasks automatically move to history when completed
 - **Real-time Statistics** - Live counters for total, completed, and pending tasks
