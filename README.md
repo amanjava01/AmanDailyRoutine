@@ -106,7 +106,7 @@ app/src/main/java/com/umakant/dailyroutine/
 
 **Aman**
 - GitHub: My Github Link(https://github.com/amanjava01)
-- Email: amanranahyd5546.email@example.com
+- Email: amanranahyd5546@gmail.com
 
 ## 🙏 Acknowledgments
 
